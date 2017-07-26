@@ -1,0 +1,37 @@
+# run dell outlet scan
+
+# from surface book
+py "C:\\Users\\charl\\Google Drive\\10. Coding\\201707 Dell Outlet Stock Check with Python\\Dell_Outlet_Stock_Checker_Combined_v2.py" 120 "C:\\Users\\charl\\Google Drive\\10. Coding\\201707 Dell Outlet Stock Check with Python\\results\\"
+
+# from dell
+py "D:\\01 Google Drive\\10. Coding\\201707 Dell Outlet Stock Check with Python\\Dell_Outlet_Stock_Checker_Combined_v2.py" 120 "D:\\01 Google Drive\\10. Coding\\201707 Dell Outlet Stock Check with Python\\results\\"
+
+# ============ building blocks ============================
+
+# cd to folder
+cd "C:\Users\charl\Google Drive\10. Coding\201707 Dell Outlet Stock Check with Python"
+
+# run python scripts with specific version
+py -3 Dell_Outlet_Stock_Checker_v1.py
+py -2 Send_Email_v1.py
+
+# send cmd from python script
+import subprocess
+subprocess.call(['py','-3','Dell_Outlet_Stock_Checker_v1.py'])
+subprocess.call(['py','-2','Send_Email_v1.py'])
+
+# pass in parameters from cmd
+# argv's 0th element is the function name, 1st is first parameter
+import sys
+def main(argv):
+	...
+if __name__ == "__main__":
+   main(sys.argv[1:])
+python <scriptname> -a2 
+
+
+
+
+
+
+

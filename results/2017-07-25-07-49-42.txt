@@ -1,0 +1,135 @@
+run time: 2017-07-25-07-49-42
+filtering condition:- XPS 15 9560- i7- 15-16inch- 3840x2160
+number of offers found: 10
+number of 7xxx processor offers found: 4
+number of Scratch and Dent offers found: 4
+
+======================== offers with scratch and dent: ===========================
+XPS 15 - 9550
+6700HQ (4 Core,6M Cache, up to 3.5GHz, 45W)
+32 GB mSATA SSD1 TBHD
+959.24
+Scratch and Dent
+16GB (2x8GB) 2133MHz DDR4 Non-ECC
+
+XPS 15 - 9550
+6700HQ (4 Core,6M Cache, up to 3.5GHz, 45W)
+512GBSSD
+1,029.26
+Scratch and Dent
+16GB (2x8GB) 2133MHz DDR4 Non-ECC
+
+XPS 15 - 9550
+6700HQ (4 Core,6M Cache, up to 3.5GHz, 45W)
+1TBSSD
+1,155.29
+Scratch and Dent
+16GB (2x8GB) 2133MHz DDR4 Non-ECC
+
+XPS 15 - 9550
+6700HQ (4 Core,6M Cache, up to 3.5GHz, 45W)
+1TBSSD
+1,219.31
+Scratch and Dent
+32 GB DDR4 Non- ECC 2133Mhz (16GBx2)
+
+======================== offers with 7xxx processor: ===========================
+XPS 15 - 9560
+7700HQ (Quad Core,up to 3.8GHz, 6MB Cache, 45W)
+512GBSSD
+1,259.32
+Certified Refurbished
+16GB DDR4 SDRAM (2x8GB) 2400MHz Non-ECC
+
+XPS 15 - 9560
+7700HQ (Quad Core,up to 3.8GHz, 6MB Cache, 45W)
+512GBSSD
+1,265.32
+Certified Refurbished
+16GB DDR4 SDRAM (2x8GB) 2400MHz Non-ECC
+
+XPS 15 - 9560
+7700HQ (Quad Core,up to 3.8GHz, 6MB Cache, 45W)
+1TBSSD
+1,489.38
+Certified Refurbished
+32GB (2x16GB) DDR4 SDRAM 2400MHz Non-ECC
+
+XPS 15 - 9560
+7700HQ (Quad Core,up to 3.8GHz, 6MB Cache, 45W)
+1TBSSD
+1,515.39
+Certified Refurbished
+32GB (2x16GB) DDR4 SDRAM 2400MHz Non-ECC
+
+================================== all offers ====================================
+XPS 15 - 9550
+6700HQ (4 Core,6M Cache, up to 3.5GHz, 45W)
+32 GB mSATA SSD1 TBHD
+959.24
+Scratch and Dent
+16GB (2x8GB) 2133MHz DDR4 Non-ECC
+
+XPS 15 - 9550
+6700HQ (4 Core,6M Cache, up to 3.5GHz, 45W)
+512GBSSD
+1,029.26
+Scratch and Dent
+16GB (2x8GB) 2133MHz DDR4 Non-ECC
+
+XPS 15 - 9550
+6700HQ (4 Core,6M Cache, up to 3.5GHz, 45W)
+32 GB mSATA SSD1 TBHD
+1,045.27
+Certified Refurbished
+16GB (2x8GB) 2133MHz DDR4 Non-ECC
+
+XPS 15 - 9550
+6700HQ (4 Core,6M Cache, up to 3.5GHz, 45W)
+1TBSSD
+1,155.29
+Scratch and Dent
+16GB (2x8GB) 2133MHz DDR4 Non-ECC
+
+XPS 15 - 9550
+6700HQ (4 Core,6M Cache, up to 3.5GHz, 45W)
+1TBSSD
+1,219.31
+Scratch and Dent
+32 GB DDR4 Non- ECC 2133Mhz (16GBx2)
+
+XPS 15 - 9560
+7700HQ (Quad Core,up to 3.8GHz, 6MB Cache, 45W)
+512GBSSD
+1,259.32
+Certified Refurbished
+16GB DDR4 SDRAM (2x8GB) 2400MHz Non-ECC
+
+XPS 15 - 9560
+7700HQ (Quad Core,up to 3.8GHz, 6MB Cache, 45W)
+512GBSSD
+1,265.32
+Certified Refurbished
+16GB DDR4 SDRAM (2x8GB) 2400MHz Non-ECC
+
+XPS 15 - 9550
+6700HQ (4 Core,6M Cache, up to 3.5GHz, 45W)
+1TBSSD
+1,329.34
+Certified Refurbished
+32 GB DDR4 Non- ECC 2133Mhz (16GBx2)
+
+XPS 15 - 9560
+7700HQ (Quad Core,up to 3.8GHz, 6MB Cache, 45W)
+1TBSSD
+1,489.38
+Certified Refurbished
+32GB (2x16GB) DDR4 SDRAM 2400MHz Non-ECC
+
+XPS 15 - 9560
+7700HQ (Quad Core,up to 3.8GHz, 6MB Cache, 45W)
+1TBSSD
+1,515.39
+Certified Refurbished
+32GB (2x16GB) DDR4 SDRAM 2400MHz Non-ECC
+

@@ -1,0 +1,1 @@
+py "D:\\01 Google Drive\\10. Coding\\201707 Dell Outlet Stock Check with Python\\Dell_Outlet_Stock_Checker_Combined_v3.py" 60 "D:\\01 Google Drive\\10. Coding\\201707 Dell Outlet Stock Check with Python\\results\\"

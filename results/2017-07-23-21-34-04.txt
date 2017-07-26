@@ -1,0 +1,10 @@
+run time: 2017-07-23-21-34-04
+filtering condition:- XPS 15 9560- i7- 15-16inch- 3840x2160
+number of offers found: 11
+number of 7xxx processor offers found: 5
+number of Scratch and Dent offers found: 4
+
+======================== offers with scratch and dent: ===========================
+XPS 15 - 9550
+6700HQ (4 Core,6M Cache, up to 3.5GHz, 45W)
+32 GB mSATA SSD1 TBHD
